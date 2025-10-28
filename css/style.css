@@ -296,7 +296,7 @@ div {
 }
 
 .glyphs1{
-    background-image: url('glyphsback.png');
+    background-image: url("../images/glyphsback.png");
     background-size: contain;
 }
 
@@ -308,7 +308,7 @@ div {
     font-size: 65px;
     justify-content: center;
     width: 100%;
-    background-image: url('glyphsback.png');
+    background-image: url("../images/glyphsback.png");
     background-size: contain;
 }
 
