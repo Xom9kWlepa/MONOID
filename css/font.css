@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'Monoid';
-    src: url('font/Monoid-Regular.ttf') format('truetype');
+    src: url('../font/Monoid-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
   font-family: 'Monoid Retina';
-  src: url('fonts/Monoid-Retina.ttf') format('truetype');
+  src: url('../font/Monoid-Retina.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
