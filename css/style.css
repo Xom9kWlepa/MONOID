@@ -205,21 +205,6 @@ div {
     top: 358px;
 }
 
-#circle1 {
-    left: 1290px;
-    top: 25px;
-}
-
-#circle2 {
-    left: 1290px;
-    top: 257px;
-}
-
-#circle3 {
-    left: 1290px;
-    top: 509px;
-}
-
 #circle4 {
     left: 402px;
     top: 2035px;
@@ -238,6 +223,16 @@ div {
     position: absolute;
     gap: 63px;
 }
+
+#circles {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    gap: 60px;
+    left: 1290px;
+    top: 25px;
+}
+
 
 #texthis1 {
     width: 496px;
